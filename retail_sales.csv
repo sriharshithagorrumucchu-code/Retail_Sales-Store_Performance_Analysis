@@ -1,0 +1,11 @@
+Store,Product,Category,Quantity,Price,Sales
+Store A,Laptop,Electronics,5,50000,250000
+Store A,Mobile,Electronics,10,20000,200000
+Store B,Shirt,Clothing,20,1000,20000
+Store B,Shoes,Footwear,15,2500,37500
+Store C,Rice,Grocery,50,60,3000
+Store C,Oil,Grocery,30,150,4500
+Store D,TV,Electronics,4,40000,160000
+Store D,Watch,Accessories,12,3000,36000
+Store E,Bag,Accessories,10,1500,15000
+Store E,Jeans,Clothing,18,2000,36000
